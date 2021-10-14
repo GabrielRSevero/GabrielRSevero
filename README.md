@@ -7,7 +7,7 @@
   
 <br>
   
-<div align="start">
+<div align="center">
   <img alt="GabrielRSevero-HTMLl5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="GabrielRSevero-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="GabrielRSevero-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
