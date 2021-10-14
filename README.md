@@ -5,7 +5,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielRSevero&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<br>
+
+## Ferramentas e Linguagens
+
   
 <div align="start">
   <img alt="GabrielRSevero-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,7 +20,7 @@
   <img alt="GabrielRSevero-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
 </div>
 
- ##
+##
   
 <div align="start"> 
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
