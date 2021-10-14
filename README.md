@@ -4,7 +4,7 @@
   <a href="https://github.com/GabrielRSevero">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielRSevero&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-  
+  <p>teste</p>
 <br>
   
 <div align="start">
