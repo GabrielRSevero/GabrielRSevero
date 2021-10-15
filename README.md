@@ -26,4 +26,3 @@
  
   ![Snake animation](https://github.com/GabrielRSevero/GabrielRSevero/blob/output/github-contribution-grid-snake.svg)
  
-</div>
