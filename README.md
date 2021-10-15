@@ -1,3 +1,5 @@
+## Hello! :)
+
 <div align="center">
   <a href="https://github.com/GabrielRSevero">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielRSevero&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -26,4 +28,3 @@
  
   ![Snake animation](https://github.com/GabrielRSevero/GabrielRSevero/blob/output/github-contribution-grid-snake.svg)
  
-</div>
