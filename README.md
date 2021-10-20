@@ -7,7 +7,7 @@ Atualmente sou formado em <b> Análise e Desenvolvimento de Sistemas </b> de Cam
 
 ### Framework/Technology: 
 ---  
-<div align="center" style="display: inline_block; border:4px solid; border-image: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 48%, rgba(0,212,255,1) 100%)"> 
+<div align="center" style="display: inline_block; border:4px solid; border-image: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 48%, rgba(0,212,255,1) 100%) 1;"> 
   <a href="https://git-scm.com/"> <img align="center" alt="Kyuorhan-JS" height="80" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"></a>
   <a href="https://www.npmjs.com/"> <img align="center" alt="Kyuorhan-NPM" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"></a>
   <a href="https://www.embarcadero.com/br/"> <img align="center" alt="Kyuorhan-Delphi" height="40" width="60" src="https://raw.githubusercontent.com/Kyuorhan/Kyuorhan/master/src/icons/delphi-svg/delphi_10.4_sydney-original.svg"></a>
