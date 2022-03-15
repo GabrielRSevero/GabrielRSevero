@@ -5,8 +5,8 @@ Sou desenvolvedor web apaixonado por tecnologia e inovação. Busco evoluir cons
 <br/>
 
 <div align="center">
-  <img height="160em" width="49%" src="https://github-readme-stats.vercel.app/api?username=GabrielRSevero&show_icons=true&bg_color=0d1117&title_color=fff&text_color=fff&border_color=0d1117&include_all_commits=true&count_private=true"/>
-  <img height="160em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRSevero&layout=compact&langs_count=7&bg_color=0d1117&title_color=fff&text_color=fff&border_color=0d1117"/>
+  <img height="160em" width="49%" src="https://github-readme-stats.vercel.app/api?username=GabrielRSevero&show_icons=true&bg_color=0d1117&title_color=c9d1d9&text_color=c9d1d9&border_color=0d1117&include_all_commits=true&count_private=true"/>
+  <img height="160em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRSevero&layout=compact&langs_count=7&bg_color=0d1117&title_color=c9d1d9&text_color=c9d1d9&border_color=0d1117"/>
 </div>
 
 <br/>
