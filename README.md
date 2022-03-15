@@ -5,8 +5,8 @@ Sou desenvolvedor web apaixonado por tecnologia e inovação. Busco evoluir cons
 <br/>
 
 <div align="center">
-  <img height="160em" width="49%" src="https://github-readme-stats.vercel.app/api?username=GabrielRSevero&show_icons=true&bg_color=0d1117&title_color=2bbad0&text_color=2bbad0&border_color=0d1117&include_all_commits=true&count_private=true"/>
-  <img height="160em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRSevero&layout=compact&langs_count=7&bg_color=0d1117&title_color=2bbad0&text_color=2bbad0&border_color=0d1117"/>
+  <img height="160em" width="49%" src="https://github-readme-stats.vercel.app/api?username=GabrielRSevero&show_icons=true&bg_color=0d1117&title_color=fff&text_color=fff&border_color=0d1117&include_all_commits=true&count_private=true"/>
+  <img height="160em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielRSevero&layout=compact&langs_count=7&bg_color=0d1117&title_color=fff&text_color=fff&border_color=0d1117"/>
 </div>
 
 <br/>
@@ -35,4 +35,4 @@ Sou desenvolvedor web apaixonado por tecnologia e inovação. Busco evoluir cons
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielrogeriosevero@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-rogerio-severo-718a501a3/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/GabrielRogerioSevero/)
