@@ -33,9 +33,3 @@ Sou desenvolvedor web apaixonado por tecnologia e inovação. Busco evoluir cons
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielrogeriosevero@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-rogerio-severo-718a501a3/)
-
-<hr/>
-
-<div align="center"><br/>
-  ![Snake animation](https://github.com/GabrielRSevero/GabrielRSevero/blob/output/github-contribution-grid-snake.svg)
-</div>
