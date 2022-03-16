@@ -1,6 +1,6 @@
 ## Olá! sejam bem vindos ao meu perfil.
 
-Sou desenvolvedor web apaixonado por tecnologia e inovação. Busco evoluir constantemente no mercado profissional utilizando as mais atuais tecnologias e melhores boas práticas do mercado.
+Sou desenvolvedor web apaixonado por tecnologia e inovação. Busco evoluir constantemente utilizando as mais atuais tecnologias e melhores boas práticas do mercado.
 
 <br/>
 
